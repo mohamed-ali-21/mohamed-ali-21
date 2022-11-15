@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://www.linkedin.com/in/mohamed-ali-6955a6209/" target="blank">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a target="_blank" href="https://www.linkedin.com/in/mohamed-ali-6955a6209/" target="blank">
 Mohamed Ali</a></h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
@@ -8,7 +8,7 @@ Mohamed Ali</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.originsysglobal.com/" target="blank">Origin Systems of Middle East</a>
+- 🔭 I’m currently working in <a target="_blank" href="https://www.originsysglobal.com/" target="blank">Origin Systems of Middle East</a>
 
 - 🌱 I’m currently Working on Back-End Development(Asp.net)
 
