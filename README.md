@@ -14,20 +14,12 @@
 - 📫 How to reach me: [mohamed.ali.21@outlook.com](mailto:mohamed.ali.21@outlook.com)
 
 <h3 align="center">Connect with me 🤝</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ali-6955a6209/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/mohamed-ali-6955a6209/" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn" style="vertical-align: middle;">
   </a>
-  <a href="https://github.com/mohamed-ali-21" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-  </a>
-  <a href="https://stackoverflow.com/users/20510403/mohamed-ali" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow">
-  </a>
-  <a href="https://www.instagram.com/mohamedali21254/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100024049087384" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/facebook-new--v2.png" alt="Facebook">
+  <a href="https://stackoverflow.com/users/20510403/mohamed-ali" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow" style="vertical-align: middle;">
   </a>
 </p>
